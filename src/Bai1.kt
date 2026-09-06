@@ -3,7 +3,7 @@ fun main() {
     val fullName = "Nguyen Trong Vu"
     val math = 8.5
     val programming = 9.0
-    val database = 7.5
+    val database = 7.0
 
     val tongDiem = math + programming + database
     val gpa = tongDiem / 3.0
